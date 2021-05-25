@@ -2,7 +2,7 @@
 from tkinter import *
 from PIL import Image,ImageTk
 from playsound import playsound
-import welcome
+import
 from tkinter import messagebox
 
 
