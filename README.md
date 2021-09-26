@@ -29,6 +29,7 @@ ___
 ##### MEAN
 Install VS code (last versions are better). Install python 3.7.5 (and +).
 Install tkinter lib as that:
+
 ```pip install tkinter```
 ###### OR
 ``` pip3 install tkinter ```
