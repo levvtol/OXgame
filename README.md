@@ -23,3 +23,15 @@ In this game you have 2 sort matryoshkas(blue and black). First these matryoshka
 ___
 ### GAME PLAY
 For play to game open game and next you can get screen.
+
+___
+### BUILD
+##### MEAN
+Install VS code (last versions are better). Install python 3.7.5 (and +).
+Install tkinter lib as that:
+```pip install tkinter```
+###### OR
+``` pip3 install tkinter ```
+next run mean py file.
+##### PAST MEAN
+Install Pycharm from website. Then can install python automatic. Next install tkinter library. Then run mean file.
