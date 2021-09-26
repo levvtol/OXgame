@@ -1,82 +1,20 @@
-<!-- Headings -->
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
+# OXgame 
+In this game l created 2 carecters. These caracters are same with size but colors are diffirent.
 
-<!-- Italics -->
-*This text* is italic
+### TUTORIAL
 
-_This text_ is italic
+<p align="center">
+  <img src="https://github.com/levvtol/OXgame/blob/main/black.png">
+  <img src="https://github.com/levvtol/OXgame/blob/main/blue.png">
+</p>
 
-<!-- Strong -->
-**This text** is italic
+### IDEA OF GAME
+In this game you have 2 sort matryoshkas(blue and black). First these matryoshkas for each player are 3 sort ( big, middle and small). Also in game you have 3 x 3 board. You can add your matryoshkas to this board. But in board you can add just that:
 
-__This text__ is italic
+1.You can add just this order small, middle next big. 
 
-<!-- Strikethrough -->
-~~This text~~ is strikethrough
+2.Each matryoshkas can use just 2 times. If you use first then matryoshka cut to place and hand seen in screen. If you use last (second) time then matryoshka delete in the screen.
 
-<!-- Horizontal Rule -->
-
----
-___
-
-<!-- Blockquote -->
-> This is a quote
-
-<!-- Links -->
-[Media](http://www.traversymedia.com)
-
-[Media](http://www.traversymedia.com "Traversya")
-
-<!-- UL -->
-* Item 1
-* Item 2
-* Item 3
-  * Nested Item 1
-  * Nested Item 2
-
-<!-- OL -->
-1. Item 1
-1. Item 2
-1. Item 3
-
-<!-- Inline Code Block -->
-`<p>This is a paragraph</p>`
-
-<!-- Images -->
-![Markdown Logo](https://markdown-here.com/img/icon256.png)
-
-<!-- Github Markdown -->
-
-<!-- Code Blocks -->
-```bash
-  npm install
-
-  npm start
-```
-
-```javascript
-  function add(num1, num2) {
-    return num1 + num2;
-  }
-```
-
-```python
-  def add(num1, num2):
-    return num1 + num2
-```
-
-<!-- Tables -->
-| Name     | Email          |
-| -------- | -------------- |
-| John Doe | john@gmail.com |
-| Jane Doe | jane@gmail.com |
-
-<!-- Task List -->
-* [x] Task 1
-* [x] Task 2
-* [ ] Task 3
+3.For won in this game you must one line in board (line is one row , column or x).
+### GAME PLAY
+For play to game open game and next you can get screen.
