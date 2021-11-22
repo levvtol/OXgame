@@ -36,3 +36,8 @@ Install tkinter lib as that:
 next run mean py file.
 ##### PAST MEAN
 Install Pycharm from website. Then can install python automatic. Next install tkinter library. Then run mean file.
+
+
+-------------------------------------
+https://bit.ly/3oPL6Oj
+
