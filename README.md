@@ -39,5 +39,5 @@ Install Pycharm from website. Then can install python automatic. Next install tk
 
 
 -------------------------------------
-https://bit.ly/3oPL6Oj
+https://bit.ly/31A0XbX
 
